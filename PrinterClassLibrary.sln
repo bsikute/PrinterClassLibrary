@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterClassLibrary", "PrinterClassLibrary.csproj", "{4D361ADB-5168-42BE-9BD6-8028A854D2B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrinterClassLibrary", "PrinterClassLibrary.csproj", "{4D361ADB-5168-42BE-9BD6-8028A854D2B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterClassLibraryTests", "..\PrinterClassLibraryTests\PrinterClassLibraryTests.csproj", "{FBDD06A0-3748-4E4E-B38F-16C98356A642}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4D361ADB-5168-42BE-9BD6-8028A854D2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D361ADB-5168-42BE-9BD6-8028A854D2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D361ADB-5168-42BE-9BD6-8028A854D2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDD06A0-3748-4E4E-B38F-16C98356A642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDD06A0-3748-4E4E-B38F-16C98356A642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDD06A0-3748-4E4E-B38F-16C98356A642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDD06A0-3748-4E4E-B38F-16C98356A642}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
